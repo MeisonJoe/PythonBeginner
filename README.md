@@ -1,0 +1,3 @@
+# PythonBeginner
+PythonBeginner
+Python初学基本语法和库的了解
