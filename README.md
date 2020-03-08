@@ -1,3 +1,2 @@
 # PythonBeginner
-PythonBeginner
-Python初学基本语法和库的了解
+了解Python基本语法和基本库
